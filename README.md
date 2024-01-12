@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdulRehman8680
 - 👀 I’m interested in Artificial Intelligence.
 - 🌱 I’m currently learning BS Artificial Intelligence at Sir Syed CASE Institute of Technology,Islamabad.
-- 💞️ I’m looking to collaborate on Python
+- 💞️ I’m looking to collaborate on Python, C++, My SQL, HTML, CSS, Javascript.
 - 📫 How to reach me... Facebook::"Abdul Rehman Poswal", Instagram::"Rehman.bhai", Whatsapp::"(+92)-303-2223569".
 
 <!---
